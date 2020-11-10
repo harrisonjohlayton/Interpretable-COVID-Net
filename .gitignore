@@ -1,0 +1,10 @@
+output/
+covidnet/
+env/
+tcav-master/
+covidnet.7z
+output.7z
+data.7z
+debut.log
+__pycache__/
+.ipynb_checkpoints/
