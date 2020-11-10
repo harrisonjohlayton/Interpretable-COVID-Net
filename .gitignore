@@ -8,3 +8,5 @@ data.7z
 debut.log
 __pycache__/
 .ipynb_checkpoints/
+models/
+models.7z
